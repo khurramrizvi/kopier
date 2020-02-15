@@ -1,0 +1,4 @@
+runme.bat ->
+    deobfuscator.bat ->
+               kopier1.bat ->
+                       obfuscator.bat
